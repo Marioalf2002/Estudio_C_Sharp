@@ -1,0 +1,8 @@
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Cuiz\bin\Debug\Cuiz.exe.config
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Cuiz\bin\Debug\Cuiz.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Cuiz\bin\Debug\Cuiz.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Cuiz\obj\Debug\Cuiz.csproj.AssemblyReference.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Cuiz\obj\Debug\Cuiz.csproj.SuggestedBindingRedirects.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Cuiz\obj\Debug\Cuiz.csproj.CoreCompileInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Cuiz\obj\Debug\Cuiz.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Cuiz\obj\Debug\Cuiz.pdb
