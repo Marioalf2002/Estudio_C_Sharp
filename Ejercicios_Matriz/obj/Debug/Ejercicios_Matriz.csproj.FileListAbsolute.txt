@@ -1,0 +1,8 @@
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Ejercicios_Matriz\bin\Debug\Ejercicios_Matriz.exe.config
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Ejercicios_Matriz\bin\Debug\Ejercicios_Matriz.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Ejercicios_Matriz\bin\Debug\Ejercicios_Matriz.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Ejercicios_Matriz\obj\Debug\Ejercicios_Matriz.csproj.AssemblyReference.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Ejercicios_Matriz\obj\Debug\Ejercicios_Matriz.csproj.SuggestedBindingRedirects.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Ejercicios_Matriz\obj\Debug\Ejercicios_Matriz.csproj.CoreCompileInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Ejercicios_Matriz\obj\Debug\Ejercicios_Matriz.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Ejercicios_Matriz\obj\Debug\Ejercicios_Matriz.pdb

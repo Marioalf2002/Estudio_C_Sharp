@@ -1,0 +1,8 @@
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Funciones\bin\Debug\Funciones.exe.config
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Funciones\bin\Debug\Funciones.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Funciones\bin\Debug\Funciones.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Funciones\obj\Debug\Funciones.csproj.SuggestedBindingRedirects.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Funciones\obj\Debug\Funciones.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Funciones\obj\Debug\Funciones.pdb

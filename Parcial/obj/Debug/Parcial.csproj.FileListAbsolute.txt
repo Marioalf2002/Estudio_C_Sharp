@@ -1,0 +1,8 @@
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Parcial\bin\Debug\Parcial.exe.config
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Parcial\bin\Debug\Parcial.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Parcial\bin\Debug\Parcial.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Parcial\obj\Debug\Parcial.csproj.SuggestedBindingRedirects.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Parcial\obj\Debug\Parcial.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Parcial\obj\Debug\Parcial.pdb
