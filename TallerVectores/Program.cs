@@ -106,9 +106,14 @@ for (i = 0; i < vector.Length; i = i + 2)
 
 Console.WriteLine("Suma total: " + suma + "\n");
 
-i = n - 1;
+//i = n - 1;
 Console.WriteLine("IMPRIMIR VECTOR DESDE ULTIMO ELEMENTO\n");
 
+for (i=n-1; i >= vector.Length; i--)
+{
+    Console.WriteLine("Numero en posicion " + i + " es " + vector[i] + "\n");
+}
+/*
 while (i>=0)
 {
     Console.WriteLine("Numero en posicion " + i + " es " + vector[i] + "\n");
@@ -209,7 +214,6 @@ Console.WriteLine("Promedio: " + prom / 30 + "\n");
 
 /**********NOVENO PUNTO**********/
 /*
-
 int n = 0;
 
 Console.WriteLine("Tamaño de los vectores: ");
@@ -217,8 +221,9 @@ n = int.Parse(Console.ReadLine());
 
 int[] vector1 = new int[n];
 int[] vector2 = new int[n];
-int[] vector3 = new int[n];
+int[] vector3 = new int[n*n];
 Random rand = new Random();
+int f = 0;
 
 for (int i = 0; i < n; i++)
 {
@@ -228,8 +233,12 @@ for (int i = 0; i < n; i++)
 
 for (int i = 0; i < n; i++)
 {
-    vector3[i] = vector1[i] * vector2[i];
-    Console.WriteLine(vector1[i] + "x" + vector2[i] + " = " + vector3[i] + "\n");
+    for (int j = 0; j < n; j++)
+    {
+        vector3[f] = vector1[i] * vector2[j];
+        Console.WriteLine(vector1[i] + "x" + vector2[j] + " = " + vector3[f] + "\n");
+        f++;
+    }
 }
 */
 
@@ -319,12 +328,27 @@ for (int i = 6; i >=0 ; --i)
 
 /**********PUNTO DOCE**********/
 /*
+string[] vector = new string[365];
 
-int[] vector = new int[365];
-
-for (int i = 1; i <= 365; i++)
+for (int i = 0; i <= 91; i++)
 {
-    
+    vector[i] = "v";
+    Console.WriteLine("Dia "+i+": "+vector[i]);
+}
+for (int i = 92; i <= 182; i++)
+{
+    vector[i] = "i";
+    Console.WriteLine("Dia " + i + ": " + vector[i]);
+}
+for (int i = 183; i <= 273; i++)
+{
+    vector[i] = "o";
+    Console.WriteLine("Dia " + i + ": " + vector[i]);
+}
+for (int i = 274; i <= 364; i++)
+{
+    vector[i] = "p";
+    Console.WriteLine("Dia " + i + ": " + vector[i]);
 }
 */
 
@@ -364,4 +388,146 @@ while (i < n)
 */
 
 /**********PUNTO CATORCE**********/
+/*
+int[] vector = new int[144];
+Random rand = new Random();
+int mayor = 0, aux = 0, suma = 0, c = 0, j = 0;
 
+for (int i = 0; i < vector.Length; i++)
+{
+    vector[i] = rand.Next(145);
+    Console.WriteLine("Posicion " + i + " es: " + vector[i] + "\n");
+}
+
+for(int i = 0;i < vector.Length; i++)
+{
+    if (vector[i] > mayor)
+    {
+        mayor = vector[i];
+        aux = i;
+    }
+    if (vector[i] % 2 == 0)
+    {
+        suma = suma + vector[i];
+    }
+    if (vector[i] > 80 && vector[i] < 120)
+    {
+        c++;
+    }
+    if (vector[i] % 7 == 0)
+    {
+        j++;
+    }
+}
+
+Console.WriteLine("Numero mayor: " + mayor + ", Suma Posiciones Pares: " + suma + ", Mayores a 80 y Menores a 120: " + c + ", Multiplos de 7: " + j + "\n");
+
+for (int i = 143; i >= 0; --i)
+{
+    Console.WriteLine(vector[i]);
+}
+*/
+
+/**********PUNTO QUINCE**********/
+/*
+int[] vector = new int[125];
+int[] vector1 = new int[62];
+Random rand = new Random();
+int suma = 0, num = 0, cantidad = 0;
+
+for (int i = 0; i < vector.Length; i++)
+{
+    vector[i] = rand.Next(126);
+    Console.WriteLine("Posicion " + i + " es: " + vector[i] + "\n");
+}
+
+for (int i = 0; i < vector.Length; i++)
+{
+    suma = suma + vector[i];
+    int x = 0;
+    for (int j = 1; j < vector.Length; j = j + 2)
+    {
+        vector1[x] = vector[j];
+        x++;
+    }
+}
+
+for (int j = 0; j < vector.Length; j++)
+{
+    if ((vector[j] % 3 == 0) && (vector[j] > 0))
+    {
+        cantidad = cantidad + 1;
+    }
+}
+
+Console.WriteLine("Numero a Buscar: ");
+num = int.Parse(Console.ReadLine());
+
+for (int j = 0; j < vector.Length; j++)
+{
+    if (vector[j] == num)
+    {
+        Console.WriteLine("\nNumero Encontrado en la Posicion " + j);
+    }
+}
+
+Console.WriteLine("\nPromedio: " + suma / 125 + ", Cantidad numero multilpos de 3 y Positivos: " + cantidad + "\n");
+
+Console.WriteLine("Elementos de las Posiciones Impares");
+for (int i = 0; i < vector1.Length; i++)
+{
+    Console.WriteLine(vector1[i]);
+}
+*/
+
+using System.Linq.Expressions;
+
+int[] vector = new int[4];
+int op = 0, c1 = 0, c2 = 0, c3 = 0, c4 = 0;
+
+Console.WriteLine("\nBienvenido a las Votaciones del año.");
+
+do
+{
+    Console.WriteLine("--------------------------------------");
+    Console.WriteLine("Eliga con determinacion.");
+    Console.WriteLine("1. Pepito.");
+    Console.WriteLine("2. Chancho.");
+    Console.WriteLine("3. juanito.");
+    Console.WriteLine("4. Luiza.");
+    Console.WriteLine("0. Salir.");
+    op = int.Parse(Console.ReadLine());
+
+    switch (op)
+    {
+        case 1:
+            Console.WriteLine("Eligio a Pepito.");
+            c1 = c1 + 1;
+            break;
+        case 2:
+            Console.WriteLine("Eligio a Chancho.");
+            c2 = c2 + 1;
+            break;
+        case 3:
+            Console.WriteLine("Eligio a Juanito.");
+            c3 = c3 + 1;
+            break;
+        case 4:
+            Console.WriteLine("Eligio a Luiza.");
+            c4 = c4 + 1;
+            break;
+        case 0:
+            Console.WriteLine("Hasta la proimaaaa.");
+            break;
+        default:
+            Console.WriteLine("Opcion Invalida.");
+            break;
+    }
+} while(op!=0);
+
+Console.WriteLine("--------------------------------------");
+Console.WriteLine("Pepito: " + c1);
+Console.WriteLine("Chancho: " + c2);
+Console.WriteLine("Juanito: " + c3);
+Console.WriteLine("Luiza: " + c4);
+Console.WriteLine("--------------------------------------");

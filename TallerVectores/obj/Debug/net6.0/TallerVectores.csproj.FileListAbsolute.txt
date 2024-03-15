@@ -1,0 +1,15 @@
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\bin\Debug\net6.0\TallerVectores.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\bin\Debug\net6.0\TallerVectores.deps.json
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\bin\Debug\net6.0\TallerVectores.runtimeconfig.json
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\bin\Debug\net6.0\TallerVectores.dll
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\bin\Debug\net6.0\TallerVectores.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\TallerVectores.csproj.AssemblyReference.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\TallerVectores.GeneratedMSBuildEditorConfig.editorconfig
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\TallerVectores.AssemblyInfoInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\TallerVectores.AssemblyInfo.cs
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\TallerVectores.csproj.CoreCompileInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\TallerVectores.dll
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\refint\TallerVectores.dll
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\TallerVectores.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\TallerVectores.genruntimeconfig.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\TallerVectores\obj\Debug\net6.0\ref\TallerVectores.dll
