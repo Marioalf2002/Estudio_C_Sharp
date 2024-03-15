@@ -64,6 +64,7 @@ namespace Vector1
                 Console.WriteLine("Ingrese Valor posicion: " + (f + 1) + ": ");
                 valor = int.Parse(Console.ReadLine());
                 elementos[f] = valor;
+                
                 suma = suma + elementos[f];
 
                 if (elementos[f]>10)
@@ -76,7 +77,7 @@ namespace Vector1
                 }
             }
             
-            Console.WriteLine("Suma de todos los Valores: " + suma + "\n");
+            Console.WriteLine("\nSuma de todos los Valores: " + suma + "\n");
             Console.WriteLine("Suma de todos los Valores mayores a 10: " + mayores + "\n");
             Console.WriteLine("Cantidad de numeros mayores a 20: " + c + "\n");
             */
@@ -86,10 +87,10 @@ namespace Vector1
              *  puede cambiar el tamaño del vector, 
              *  ingresando el tamaño desde el teclado.
              */
-            
+            /*
             int tamaño = 0;
 
-            Console.WriteLine("Cuantas Edades desea ingresar: ");
+            Console.WriteLine("Tamaño del Vector: ");
             tamaño = int.Parse(Console.ReadLine());
             
             String[] estudiantes = new string[tamaño];
@@ -108,7 +109,7 @@ namespace Vector1
             {
                 Console.WriteLine(estudiantes[i]);
             }
-            
+            */
         }
     }
 }

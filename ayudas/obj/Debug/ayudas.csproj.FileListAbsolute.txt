@@ -1,0 +1,8 @@
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\ayudas\bin\Debug\ayudas.exe.config
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\ayudas\bin\Debug\ayudas.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\ayudas\bin\Debug\ayudas.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\ayudas\obj\Debug\ayudas.csproj.AssemblyReference.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\ayudas\obj\Debug\ayudas.csproj.SuggestedBindingRedirects.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\ayudas\obj\Debug\ayudas.csproj.CoreCompileInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\ayudas\obj\Debug\ayudas.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\ayudas\obj\Debug\ayudas.pdb

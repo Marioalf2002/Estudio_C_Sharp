@@ -1,0 +1,15 @@
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\bin\Debug\net6.0\Clase1.exe
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\bin\Debug\net6.0\Clase1.deps.json
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\bin\Debug\net6.0\Clase1.runtimeconfig.json
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\bin\Debug\net6.0\Clase1.dll
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\bin\Debug\net6.0\Clase1.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\Clase1.csproj.AssemblyReference.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\Clase1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\Clase1.AssemblyInfoInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\Clase1.AssemblyInfo.cs
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\Clase1.csproj.CoreCompileInputs.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\Clase1.dll
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\refint\Clase1.dll
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\Clase1.pdb
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\Clase1.genruntimeconfig.cache
+D:\ilike\Desktop\Codigos\Estudio_C_Sharp\Clase1\obj\Debug\net6.0\ref\Clase1.dll
